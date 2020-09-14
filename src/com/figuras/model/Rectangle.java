@@ -10,7 +10,7 @@ public class Rectangle {
     }
 
     public double getArea(){
-        return base;
+        return base+height;
     }
 
     public void draw(){
