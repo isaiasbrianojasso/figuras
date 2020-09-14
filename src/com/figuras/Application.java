@@ -26,7 +26,7 @@ public class Application {
 
     public static void printFigure(Circle circle) {
         circle.draw();
-        System.out.println("Area: " + circle.getArea());
+        System.out.println("Radio: " + circle.getArea());
     }
 
     public static void printFigure(Rectangle rectangle) {

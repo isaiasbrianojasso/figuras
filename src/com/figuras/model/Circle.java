@@ -8,7 +8,7 @@ public class Circle {
     }
 
     public double getArea(){
-        return 0;
+        return radio;
     }
 
     public void draw(){
