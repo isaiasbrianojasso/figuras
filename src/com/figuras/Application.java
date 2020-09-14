@@ -18,7 +18,7 @@ public class Application {
         printFigure(circle1);
         printFigure(rectangle);
         for (Square square : squares) {
-            //printFigure(square);
+            ///printFigure(square);
         }
         printFigure(triangle);
 
